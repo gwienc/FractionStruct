@@ -1,0 +1,17 @@
+C:\Users\USER\Desktop\Visual\CLekcjeProgramowania Struktura Ulamek\UlamekDemo\UlamekBiblioteka\bin\Debug\netstandard2.0\UlamekBiblioteka.deps.json
+C:\Users\USER\Desktop\Visual\CLekcjeProgramowania Struktura Ulamek\UlamekDemo\UlamekBiblioteka\bin\Debug\netstandard2.0\UlamekBiblioteka.dll
+C:\Users\USER\Desktop\Visual\CLekcjeProgramowania Struktura Ulamek\UlamekDemo\UlamekBiblioteka\bin\Debug\netstandard2.0\UlamekBiblioteka.pdb
+C:\Users\USER\Desktop\Visual\CLekcjeProgramowania Struktura Ulamek\UlamekDemo\UlamekBiblioteka\obj\Debug\netstandard2.0\UlamekBiblioteka.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Visual\CLekcjeProgramowania Struktura Ulamek\UlamekDemo\UlamekBiblioteka\obj\Debug\netstandard2.0\UlamekBiblioteka.AssemblyInfo.cs
+C:\Users\USER\Desktop\Visual\CLekcjeProgramowania Struktura Ulamek\UlamekDemo\UlamekBiblioteka\obj\Debug\netstandard2.0\UlamekBiblioteka.dll
+C:\Users\USER\Desktop\Visual\CLekcjeProgramowania Struktura Ulamek\UlamekDemo\UlamekBiblioteka\obj\Debug\netstandard2.0\UlamekBiblioteka.pdb
+E:\CLekcjeProgramowania Struktura Ulamek\UlamekDemo\UlamekBiblioteka\bin\Debug\netstandard2.0\UlamekBiblioteka.deps.json
+E:\CLekcjeProgramowania Struktura Ulamek\UlamekDemo\UlamekBiblioteka\bin\Debug\netstandard2.0\UlamekBiblioteka.dll
+E:\CLekcjeProgramowania Struktura Ulamek\UlamekDemo\UlamekBiblioteka\bin\Debug\netstandard2.0\UlamekBiblioteka.pdb
+E:\CLekcjeProgramowania Struktura Ulamek\UlamekDemo\UlamekBiblioteka\obj\Debug\netstandard2.0\UlamekBiblioteka.AssemblyInfoInputs.cache
+E:\CLekcjeProgramowania Struktura Ulamek\UlamekDemo\UlamekBiblioteka\obj\Debug\netstandard2.0\UlamekBiblioteka.AssemblyInfo.cs
+E:\CLekcjeProgramowania Struktura Ulamek\UlamekDemo\UlamekBiblioteka\obj\Debug\netstandard2.0\UlamekBiblioteka.dll
+E:\CLekcjeProgramowania Struktura Ulamek\UlamekDemo\UlamekBiblioteka\obj\Debug\netstandard2.0\UlamekBiblioteka.pdb
+C:\Users\USER\Desktop\Visual\CLekcjeProgramowania Struktura Ulamek\UlamekDemo\UlamekBiblioteka\obj\Debug\netstandard2.0\UlamekBiblioteka.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Visual\CLekcjeProgramowania Struktura Ulamek\UlamekDemo\UlamekBiblioteka\obj\Debug\netstandard2.0\UlamekBiblioteka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Visual\CLekcjeProgramowania Struktura Ulamek\UlamekDemo\UlamekBiblioteka\obj\Debug\netstandard2.0\UlamekBiblioteka.csproj.CoreCompileInputs.cache

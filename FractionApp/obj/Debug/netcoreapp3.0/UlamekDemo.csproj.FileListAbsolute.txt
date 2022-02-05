@@ -1,0 +1,48 @@
+E:\CLekcjeProgramowania Struktura Ulamek\UlamekDemo\UlamekDemo\bin\Debug\netcoreapp3.0\UlamekDemo.exe
+E:\CLekcjeProgramowania Struktura Ulamek\UlamekDemo\UlamekDemo\bin\Debug\netcoreapp3.0\UlamekDemo.deps.json
+E:\CLekcjeProgramowania Struktura Ulamek\UlamekDemo\UlamekDemo\bin\Debug\netcoreapp3.0\UlamekDemo.runtimeconfig.json
+E:\CLekcjeProgramowania Struktura Ulamek\UlamekDemo\UlamekDemo\bin\Debug\netcoreapp3.0\UlamekDemo.runtimeconfig.dev.json
+E:\CLekcjeProgramowania Struktura Ulamek\UlamekDemo\UlamekDemo\bin\Debug\netcoreapp3.0\UlamekDemo.dll
+E:\CLekcjeProgramowania Struktura Ulamek\UlamekDemo\UlamekDemo\bin\Debug\netcoreapp3.0\UlamekDemo.pdb
+E:\CLekcjeProgramowania Struktura Ulamek\UlamekDemo\UlamekDemo\bin\Debug\netcoreapp3.0\UlamekBiblioteka.dll
+E:\CLekcjeProgramowania Struktura Ulamek\UlamekDemo\UlamekDemo\bin\Debug\netcoreapp3.0\UlamekBiblioteka.pdb
+E:\CLekcjeProgramowania Struktura Ulamek\UlamekDemo\UlamekDemo\obj\Debug\netcoreapp3.0\UlamekDemo.csprojAssemblyReference.cache
+E:\CLekcjeProgramowania Struktura Ulamek\UlamekDemo\UlamekDemo\obj\Debug\netcoreapp3.0\UlamekDemo.AssemblyInfoInputs.cache
+E:\CLekcjeProgramowania Struktura Ulamek\UlamekDemo\UlamekDemo\obj\Debug\netcoreapp3.0\UlamekDemo.AssemblyInfo.cs
+E:\CLekcjeProgramowania Struktura Ulamek\UlamekDemo\UlamekDemo\obj\Debug\netcoreapp3.0\UlamekDemo.csproj.CopyComplete
+E:\CLekcjeProgramowania Struktura Ulamek\UlamekDemo\UlamekDemo\obj\Debug\netcoreapp3.0\UlamekDemo.dll
+E:\CLekcjeProgramowania Struktura Ulamek\UlamekDemo\UlamekDemo\obj\Debug\netcoreapp3.0\UlamekDemo.pdb
+C:\Users\USER\Desktop\Visual\CLekcjeProgramowania Struktura Ulamek\UlamekDemo\UlamekDemo\bin\Debug\netcoreapp3.0\UlamekDemo.exe
+C:\Users\USER\Desktop\Visual\CLekcjeProgramowania Struktura Ulamek\UlamekDemo\UlamekDemo\bin\Debug\netcoreapp3.0\UlamekDemo.deps.json
+C:\Users\USER\Desktop\Visual\CLekcjeProgramowania Struktura Ulamek\UlamekDemo\UlamekDemo\bin\Debug\netcoreapp3.0\UlamekDemo.runtimeconfig.json
+C:\Users\USER\Desktop\Visual\CLekcjeProgramowania Struktura Ulamek\UlamekDemo\UlamekDemo\bin\Debug\netcoreapp3.0\UlamekDemo.runtimeconfig.dev.json
+C:\Users\USER\Desktop\Visual\CLekcjeProgramowania Struktura Ulamek\UlamekDemo\UlamekDemo\bin\Debug\netcoreapp3.0\UlamekDemo.dll
+C:\Users\USER\Desktop\Visual\CLekcjeProgramowania Struktura Ulamek\UlamekDemo\UlamekDemo\bin\Debug\netcoreapp3.0\UlamekDemo.pdb
+C:\Users\USER\Desktop\Visual\CLekcjeProgramowania Struktura Ulamek\UlamekDemo\UlamekDemo\bin\Debug\netcoreapp3.0\UlamekBiblioteka.dll
+C:\Users\USER\Desktop\Visual\CLekcjeProgramowania Struktura Ulamek\UlamekDemo\UlamekDemo\bin\Debug\netcoreapp3.0\UlamekBiblioteka.pdb
+C:\Users\USER\Desktop\Visual\CLekcjeProgramowania Struktura Ulamek\UlamekDemo\UlamekDemo\obj\Debug\netcoreapp3.0\UlamekDemo.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Visual\CLekcjeProgramowania Struktura Ulamek\UlamekDemo\UlamekDemo\obj\Debug\netcoreapp3.0\UlamekDemo.AssemblyInfo.cs
+C:\Users\USER\Desktop\Visual\CLekcjeProgramowania Struktura Ulamek\UlamekDemo\UlamekDemo\obj\Debug\netcoreapp3.0\UlamekDemo.csproj.CopyComplete
+C:\Users\USER\Desktop\Visual\CLekcjeProgramowania Struktura Ulamek\UlamekDemo\UlamekDemo\obj\Debug\netcoreapp3.0\UlamekDemo.dll
+C:\Users\USER\Desktop\Visual\CLekcjeProgramowania Struktura Ulamek\UlamekDemo\UlamekDemo\obj\Debug\netcoreapp3.0\UlamekDemo.pdb
+C:\Users\USER\Desktop\Visual\CLekcjeProgramowania Struktura Ulamek\UlamekDemo\UlamekDemo\obj\Debug\netcoreapp3.0\UlamekDemo.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Visual\CLekcjeProgramowania Struktura Ulamek\UlamekDemo\UlamekDemo\obj\Debug\netcoreapp3.0\UlamekDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Visual\CLekcjeProgramowania Struktura Ulamek\UlamekDemo\UlamekDemo\obj\Debug\netcoreapp3.0\UlamekDemo.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Visual\CLekcjeProgramowania Struktura Ulamek\UlamekDemo\UlamekDemo\obj\Debug\netcoreapp3.0\UlamekDemo.genruntimeconfig.cache
+C:\Users\USER\Desktop\Visual\Fraction\Fraction\UlamekDemo\bin\Debug\netcoreapp3.0\UlamekDemo.exe
+C:\Users\USER\Desktop\Visual\Fraction\Fraction\UlamekDemo\bin\Debug\netcoreapp3.0\UlamekDemo.deps.json
+C:\Users\USER\Desktop\Visual\Fraction\Fraction\UlamekDemo\bin\Debug\netcoreapp3.0\UlamekDemo.runtimeconfig.json
+C:\Users\USER\Desktop\Visual\Fraction\Fraction\UlamekDemo\bin\Debug\netcoreapp3.0\UlamekDemo.runtimeconfig.dev.json
+C:\Users\USER\Desktop\Visual\Fraction\Fraction\UlamekDemo\bin\Debug\netcoreapp3.0\UlamekDemo.dll
+C:\Users\USER\Desktop\Visual\Fraction\Fraction\UlamekDemo\bin\Debug\netcoreapp3.0\UlamekDemo.pdb
+C:\Users\USER\Desktop\Visual\Fraction\Fraction\UlamekDemo\bin\Debug\netcoreapp3.0\FractionData.dll
+C:\Users\USER\Desktop\Visual\Fraction\Fraction\UlamekDemo\bin\Debug\netcoreapp3.0\FractionData.pdb
+C:\Users\USER\Desktop\Visual\Fraction\Fraction\UlamekDemo\obj\Debug\netcoreapp3.0\UlamekDemo.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Visual\Fraction\Fraction\UlamekDemo\obj\Debug\netcoreapp3.0\UlamekDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Visual\Fraction\Fraction\UlamekDemo\obj\Debug\netcoreapp3.0\UlamekDemo.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Visual\Fraction\Fraction\UlamekDemo\obj\Debug\netcoreapp3.0\UlamekDemo.AssemblyInfo.cs
+C:\Users\USER\Desktop\Visual\Fraction\Fraction\UlamekDemo\obj\Debug\netcoreapp3.0\UlamekDemo.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Visual\Fraction\Fraction\UlamekDemo\obj\Debug\netcoreapp3.0\UlamekDemo.csproj.CopyComplete
+C:\Users\USER\Desktop\Visual\Fraction\Fraction\UlamekDemo\obj\Debug\netcoreapp3.0\UlamekDemo.dll
+C:\Users\USER\Desktop\Visual\Fraction\Fraction\UlamekDemo\obj\Debug\netcoreapp3.0\UlamekDemo.pdb
+C:\Users\USER\Desktop\Visual\Fraction\Fraction\UlamekDemo\obj\Debug\netcoreapp3.0\UlamekDemo.genruntimeconfig.cache

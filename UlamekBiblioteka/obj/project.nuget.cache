@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FyYdwWqNzvCQWvodVxKiDx7p9ipY0yBjJS+xXcP1GXijE3+lHnv24ryV7e/SGTYtNizycB6WeRFzyQ4Obbft/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\Visual\\Fraction\\Fraction\\UlamekBiblioteka\\FractionData.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

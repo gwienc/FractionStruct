@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "UlamekDemo/1.0.0": {
+        "dependencies": {
+          "FractionData": "1.0.0"
+        },
+        "runtime": {
+          "UlamekDemo.dll": {}
+        }
+      },
+      "FractionData/1.0.0": {
+        "runtime": {
+          "FractionData.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UlamekDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FractionData/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

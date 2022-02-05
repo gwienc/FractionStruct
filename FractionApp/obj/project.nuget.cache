@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "w4JoEMt4azTTpTBkMKwi0UUKrq2PYbnUR6ONViyiKiVnhbScPNR/0VkcrPKXVFY2R/E/XBKzD2V2w6uAq7NB3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\Visual\\Fraction\\Fraction\\FractionApp\\FractionApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\3.0.3\\microsoft.netcore.app.host.win-x86.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
