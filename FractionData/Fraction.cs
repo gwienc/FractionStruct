@@ -40,7 +40,7 @@ namespace FractionData
             {
                 if (value == 0)
                 {
-                    throw new ArgumentException("Mianownik musi być większy od zera");
+                    throw new ArgumentException("The denominator must be greater than 0");
                 }
                 else
                 {
@@ -57,25 +57,21 @@ namespace FractionData
 
         public static string Info()
         {
-            return "Struktura Ułamek";
+            return "Fraction Structure";
         }
-
         public override  string ToString()
         {
             return Numerator.ToString() + "/" + Denominator.ToString();
         }
-
         public  double ToDouble()
         {
             return Numerator / (double)Denominator;
         }
-
         public void Simplify()
         {
-            int a = Numerator;
-            int b = Denominator;
+            var a = Numerator;
+            var b = Denominator;
             int c;
-
             while (b != 0)
             {
                 c = a % b;
@@ -84,7 +80,6 @@ namespace FractionData
             }
             Numerator /= a;
             Denominator /= a;
-
             if ((Numerator < 0 && denominator > 0) || (Numerator >= 0 && denominator < 0))
             {
                 Numerator = -Math.Abs(Numerator);
@@ -97,7 +92,6 @@ namespace FractionData
             }
         }
     
-
         #region Arithmetic operators
         public static Fraction operator -(Fraction u)
         {
@@ -152,13 +146,11 @@ namespace FractionData
         {
             return Numerator ^ Denominator;
         }
-
         public int CompareTo(Fraction u)
         {
             double difference = this.ToDouble() - u.ToDouble();
             return Math.Sign(difference);
         }
-
         public static bool operator >(Fraction u1, Fraction u2)
         {
             return (u1.ToDouble() > u2.ToDouble());
@@ -191,88 +183,71 @@ namespace FractionData
             Fraction result = new Fraction(checked(u1.Numerator * u2.Denominator + u2.Numerator * u1.Denominator), checked(u1.Denominator * u2.Denominator));
             result.Simplify();
             return result;
-        }
-       
+        }     
         public TypeCode GetTypeCode()
         {
             return TypeCode.Object;
         }
-
         public bool ToBoolean(IFormatProvider provider)
         {
             throw new NotImplementedException();
         }
-
         public byte ToByte(IFormatProvider provider)
         {
             return (byte)(Numerator / Denominator);
         }
-
         public char ToChar(IFormatProvider provider)
         {
             throw new NotImplementedException();
         }
-
         public DateTime ToDateTime(IFormatProvider provider)
         {
             throw new NotImplementedException();
         }
-
         public decimal ToDecimal(IFormatProvider provider)
         {
             return (Numerator / (decimal)Denominator);
         }
-
         public double ToDouble(IFormatProvider provider)
         {
             return (Numerator / (double)Denominator);
         }
-
         public short ToInt16(IFormatProvider provider)
         {
             return (short)(Numerator / Denominator);
         }
-
         public int ToInt32(IFormatProvider provider)
         {
             return (int)(Numerator / Denominator);
         }
-
         public long ToInt64(IFormatProvider provider)
         {
             return (long)(Numerator / Denominator);
         }
-
         public sbyte ToSByte(IFormatProvider provider)
         {
             return (sbyte)(Numerator / Denominator);
         }
-
         public float ToSingle(IFormatProvider provider)
         {
             return (Numerator / (float)Denominator);
         }
-
         public string ToString(IFormatProvider provider)
         {
             throw new NotImplementedException();
         }
-
         public object ToType(Type conversionType, IFormatProvider provider)
         {
             throw new NotImplementedException();
         }
-
         public ushort ToUInt16(IFormatProvider provider)
         {
             return (ushort)(Numerator / Denominator);
         }
-
         public uint ToUInt32(IFormatProvider provider)
         {
             return (uint)(Numerator / Denominator);
         }
-
         public ulong ToUInt64(IFormatProvider provider)
         {
             return (ulong)(Numerator / Denominator);
